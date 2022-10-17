@@ -29,7 +29,6 @@ opt_in_rules:
   - function_default_parameter_at_end
   - ibinspectable_in_extension
   - identical_operands
-  - if_let_shadowing
   - implicit_return
   - implicitly_unwrapped_optional
   - indentation_width
@@ -57,6 +56,7 @@ opt_in_rules:
   - redundant_nil_coalescing
   - redundant_type_annotation
   - return_value_from_void_function
+  - shorthand_optional_binding
   - single_test_class
   - sorted_first_last
   - sorted_imports
